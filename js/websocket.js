@@ -4,7 +4,7 @@ class WebSocketManager {
     this.functionHandler = functionHandler;
     this.Marquee = Marquee;
     this.Station = Station;
-    this.wsURL = "wss://eew.bcl666.live/";
+    this.wsURL = "wss://jp-eq.cstrike.asia/ws";
     this.API_KEY = "金鑰貼這裡";
     this.ws = null;
   }
